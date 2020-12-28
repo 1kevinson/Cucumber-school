@@ -8,7 +8,6 @@ import static org.junit.Assert.assertEquals;
 
 public class StepDefinitions {
 
-
     Person lucy;
     Person sean;
     private String messageFromSean;
